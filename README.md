@@ -1,3 +1,1 @@
-# Pivot-Table-Example
-
-Instructor Demo
+# Pivot-Table
